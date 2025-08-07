@@ -23,7 +23,7 @@ This Python-based command-line interface (CLI) app efficiently fetches and displ
 Follow these steps to get a local copy of the project up and running.
 
 ### Prerequisites
-Python 3.x: Ensure you have Python installed. You can check your version by running python --version in your terminal.
+**Python 3.x:**  Ensure you have Python installed. You can check your version by running python --version in your terminal.
 
 ### Requests Library: 
 This script uses the requests library to make API calls. You can install it with pip:
@@ -35,6 +35,8 @@ pip install requests
 * **Clone the repository:** Get a copy of the project on your local machine using this command:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+```
+```bash
 cd your-repo-name
 ```
 
@@ -50,14 +52,14 @@ API_KEY = "YOUR-API-KEY-HERE"
 ---
 
 ## How to Use
-Simply run the script from your terminal and follow the prompts.
+**Simply run the script from your terminal and follow the prompts.** 
 ```bash
 python news_app.py
 ```  
 
 The app will ask you for a search topic and a start date.
 
-Example Session:
+**Example Session:** 
 ```bash
 Enter a topic to search for news: technology
 Enter a start date (YYYY-MM-DD format): 2025-07-20
