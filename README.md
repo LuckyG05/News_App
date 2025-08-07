@@ -9,13 +9,13 @@ This Python-based command-line interface (CLI) app efficiently fetches and displ
 ---
 
 ## Features
-* **Topic-Based Search:** Find news articles on any subject of your choice.
+* **Topic-Based Search:**   Find news articles on any subject of your choice.
 
-* **Date Filtering:** Specify a start date to narrow down your search results.
+* **Date Filtering:**   Specify a start date to narrow down your search results.
 
-* **Clean Output:** Get a focused list of article titles and their corresponding URLs.
+* **Clean Output:**   Get a focused list of article titles and their corresponding URLs.
 
-* **Robust Error Handling:** The script gracefully handles network issues or invalid API responses.
+* **Robust Error Handling:**   The script gracefully handles network issues or invalid API responses.
 
 ---
 
@@ -23,7 +23,8 @@ This Python-based command-line interface (CLI) app efficiently fetches and displ
 Follow these steps to get a local copy of the project up and running.
 
 ### Prerequisites
-**Python 3.x:**  Ensure you have Python installed. You can check your version by running python --version in your terminal.
+**Python 3.x:**  
+Ensure you have Python installed. You can check your version by running python --version in your terminal.
 
 ### Requests Library: 
 This script uses the requests library to make API calls. You can install it with pip:
@@ -32,12 +33,12 @@ pip install requests
 ```
 
 ### Installation & Setup
-* **Clone the repository:** Get a copy of the project on your local machine using this command:
+* **Clone the repository:**   Get a copy of the project on your local machine using this command:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/LuckyG05/News_App.git
 ```
 ```bash
-cd your-repo-name
+cd News_App
 ```
 
 * **Get a News API Key:**
